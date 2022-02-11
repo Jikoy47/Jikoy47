@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jake
-- 👀 I’m interested in Programming and Game dev
+- 👀 I’m interested in Persuing my dream to become a software programmer
 - 🌱 I’m currently learning C# and 3D game Dev using unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in my email jakejhon.catulpos47@gmail.com
